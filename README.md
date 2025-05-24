@@ -19,7 +19,8 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - The screen shows the options for `Employee`, `Supplier`, `Category`, `Products` and `Sales` to perform CRUD operations.
 - This screen also updates timely as you perform operations on any of these Labels.
 
-![https://github.com/Rishikaa07/Inventory-Management-System-By-Using-Python-tkinter-/blob/main/image-1.png?raw=true]
+![Alt text](image-1.png)
+
 
 
 ### 2. employee.py
@@ -27,7 +28,7 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - Buttons are functionalised accordingly.
 - You can search an employee by its `email`, `name` or `contact`.
 
-![https://github.com/Rishikaa07/Inventory-Management-System-By-Using-Python-tkinter-/blob/main/image-2.png?raw=true]
+
 
 ### 3. supplier.py
 - This screen collects and shows the complete data regarding `suppliers`.
