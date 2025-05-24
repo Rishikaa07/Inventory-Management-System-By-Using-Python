@@ -19,21 +19,21 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - The screen shows the options for `Employee`, `Supplier`, `Category`, `Products` and `Sales` to perform CRUD operations.
 - This screen also updates timely as you perform operations on any of these Labels.
 
-![alt text](image-1.png)
+
 
 ### 2. employee.py
 - This screen collects and shows the complete data regarding an `employee`.
 - Buttons are functionalised accordingly.
 - You can search an employee by its `email`, `name` or `contact`.
 
-![alt text](image-2.png)
+
 
 ### 3. supplier.py
 - This screen collects and shows the complete data regarding `suppliers`.
 - Buttons are functionalised accordingly.
 - You can search a particular supplier details by `invoice no`.
 
-![alt text](image-3.png)
+
 
 ### 4. product.py
 - This screen collects and shows the complete data about the `product`.
@@ -41,13 +41,13 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - Buttons are functionalised accordingly.
 - You can search a product by its `category`, `supplier` or `name`.
 
-![alt text](image-4.png)
+
 
 ### 5. category.py
 - This screen collects and shows the information about the category of the product. LIKE:- If Product name is `IPhone` then its category is `Phone`.
 - This screen contains 2 buttons namely `add` and `delete`. These buttons are functionalised accordingly.
 
-![alt text](image-5.png)
+
 
 ### 6. sales.py
 - This screen stores and shows the bills by an `invoice no`.
@@ -63,7 +63,7 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - This screen also contains a `calculator` to calculate the total amount.
 - Buttons are functionalised accordingly.
 
-![alt text](image-6.png)
+
 
 #### Detailed Steps:
 1. Click on the `create_db.py` file first and run it.
