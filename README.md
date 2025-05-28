@@ -88,7 +88,8 @@ Ensure that you have the following Python Pakages installed in your PC:
 - Before running `dashboard.py`, make sure to run `create_db.py` file first and create a folder named `bill` and `images`.
 - In `images` folder save your images regarding this project and in `bill` folder bills will automatically be saved.
 
-🔗 Connect
+### 🔗 Connect
+
 GitHub: Rishikaa007
 
 Email: rishikaaverm007@gmail.com
