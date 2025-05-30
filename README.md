@@ -92,4 +92,4 @@ Ensure that you have the following Python Pakages installed in your PC:
 
 GitHub: Rishikaa007
 
-Email: rishikaaverm007@gmail.com
+Email: vermarishika709@gmail.com
