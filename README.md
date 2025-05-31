@@ -47,7 +47,7 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 
 ### 5. category.py
 - This screen collects and shows the information about the category of the product. LIKE:- If Product name is `IPhone` then its category is `Phone`.
-- This screen contains 2 buttons namely `add` and `delete`. These buttons are functionalised accordingly.
+- This screen contains two buttons namely `add` and `delete`. These buttons are functionalised accordingly.
 
 ![Alt text](https://github.com/Rishikaa07/Inventory-Management-System-By-Using-Python-tkinter-/blob/b6511955fff68a77b53001657c10359e9257abe6/image-5.png)
 
