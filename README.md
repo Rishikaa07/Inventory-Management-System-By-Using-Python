@@ -90,6 +90,6 @@ Ensure that you have the following Python Pakages installed in your PC:
 
 ### 🔗 Connect
 
-GitHub: Rishikaa007
+GitHub: Rishikaa07
 
 Email: vermarishika709@gmail.com
