@@ -14,6 +14,7 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 7. `create_db.py`
 8. `billing.py`
 
+
 ### 1. dashboard.py
 - This script is the dashboard of Inventory Management System containing buttons, images and labels and timing.
 - The screen shows the options for `Employee`, `Supplier`, `Category`, `Products` and `Sales` to perform CRUD operations.
