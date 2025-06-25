@@ -84,6 +84,7 @@ Ensure that you have the following Python Pakages installed in your PC:
 - `pil`: `pip install pil`
 - `sqlite3`: `pip install sqlite3`
 - `os`: `pip install os`
+  
 
 ### Configuration
 - Before running `dashboard.py`, make sure to run `create_db.py` file first and create a folder named `bill` and `images`.
