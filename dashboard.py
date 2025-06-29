@@ -1,4 +1,5 @@
 from tkinter import *
+from chatbot import  open_chatbot
 from PIL import Image, ImageTk
 from tkinter import messagebox
 import time
@@ -13,8 +14,8 @@ from sales import salesClass
 class IMS:
     def __init__(self, root):
         self.root = root
-        self.root.title("Inventory Management System ")
-        self.root.attributes("-fullscreen", True)  # Makes it full screen
+        self.root.geometry("1100x600+190+100")
+        self.root.title("Inventory Management System | Rishika Verma")
         self.root.config(bg="white")   
 
         # Title
@@ -49,13 +50,15 @@ class IMS:
         self.icon_side = PhotoImage(file=r"C:\Users\ajayv\Desktop\inms\Inventory-Management-System-main\images\side.png")
 
         buttons = [
-            ("Employee", self.employee),
-            ("Supplier", self.supplier),
-            ("Category", self.category),
-            ("Products", self.product),
-            ("Sales", self.sales),
-            ("Exit", self.root.quit),
-        ]
+    ("Employee", self.employee),
+    ("Supplier", self.supplier),
+    ("Category", self.category),
+    ("Products", self.product),
+    ("Sales", self.sales),
+    ("Chatbot", open_chatbot),  # 👈 Added
+    ("Exit", self.root.quit),
+]
+
 
         for text, command in buttons:
             Button(LeftMenu, text=text, command=command, image=self.icon_side, compound=LEFT,
@@ -85,7 +88,7 @@ class IMS:
 
         # Footer
         lbl_footer = Label(self.root,
-                           text="IMS-Inventory Management System | Developed by Bug Coders ",
+                           text="IMS-Inventory Management System | Developed by Rishika Verma ",
                            font=("times new roman", 12), bg="#4d636d", fg="white")
         lbl_footer.pack(side=BOTTOM, fill=X)
 
