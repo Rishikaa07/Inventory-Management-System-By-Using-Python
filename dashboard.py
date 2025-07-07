@@ -7,7 +7,7 @@ import sqlite3
 import os
 from employee import employeeClass
 from supplier import supplierClass
-from category import categoryClass
+from category import categoryClass 
 from product import productClass
 from sales import salesClass
 
