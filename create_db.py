@@ -4,7 +4,7 @@ import os
 def create_db_2nf(db_path='ims_2nf.db'):
     # Remove existing database for a clean start
     if os.path.exists(db_path):
-        os.remove(db_path)
+        os.remove(db_path) 
 
     # Open connection and start a transaction
     con = sqlite3.connect(db_path)
