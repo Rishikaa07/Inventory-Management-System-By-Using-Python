@@ -4,7 +4,7 @@ from tkinter import ttk,messagebox
 import sqlite3
 import time
 import os
-import tempfile
+import tempfile 
 
 class billClass:
     def __init__(self,root):
