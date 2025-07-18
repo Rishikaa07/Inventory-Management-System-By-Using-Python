@@ -3,7 +3,7 @@ from PIL import Image,ImageTk
 from tkinter import ttk,messagebox
 import sqlite3
 import time
-import os  
+import os   
 import tempfile 
  
 class billClass:
