@@ -7,7 +7,7 @@ import os
 import tempfile 
  
 class billClass:
-    def __init__(self,root):
+    def __init__(self,root): 
         self.root=root
         self.root.geometry("1100x600+190+100")
         self.root.title("Inventory Management System | Bug Coders")
