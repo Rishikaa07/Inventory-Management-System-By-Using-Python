@@ -9,7 +9,7 @@ class categoryClass:
         self.root.geometry("1100x600+190+100")
         self.root.title("Inventory Management System | Bug Coders")
         self.root.config(bg="white")
-        self.root.resizable(False,False)
+        self.root.resizable(False,False) 
         self.root.focus_force()
 
         #------------ variables -------------
