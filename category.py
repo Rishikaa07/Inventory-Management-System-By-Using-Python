@@ -5,7 +5,7 @@ import sqlite3
 
 class categoryClass:
     def __init__(self,root):
-        self.root=root 
+        self.root=root  
         self.root.geometry("1100x600+190+100")
         self.root.title("Inventory Management System | Bug Coders")
         self.root.config(bg="white")
