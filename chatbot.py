@@ -1,7 +1,7 @@
 import tkinter as tk
 
 # ---------------- Chatbot Logic ---------------- #
-def chatbot_response(user_input):
+def chatbot_response(user_input): 
     user_input = user_input.lower()  
 
     if "add" in user_input and ("product" in user_input or "item" in user_input):
