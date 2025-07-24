@@ -2,7 +2,7 @@ import tkinter as tk
 
 # ---------------- Chatbot Logic ---------------- #
 def chatbot_response(user_input): 
-    user_input = user_input.lower()   
+    user_input = user_input.lower()    
 
     if "add" in user_input and ("product" in user_input or "item" in user_input):
         return "🛒 To add a new product, click on the 'Products' tab from the dashboard and fill in the required fields like name, supplier, price, etc."
